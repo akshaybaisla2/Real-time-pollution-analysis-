@@ -1,4 +1,4 @@
-# Real-time-pollution-analysis-
+# Real time pollution analysis
 
 # Project Highlight:
 This project is based on analysing air quality information of INDIA(aqi,major pollutants) using python.
