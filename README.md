@@ -1,9 +1,9 @@
-# Real time pollution analysis
+Real time pollution analysis
 
-# Project Highlight:
+# Project Highlight
 This project is based on analysing air quality information of INDIA(aqi,major pollutants) using python.
 
-# Libraries used: 
+# Libraries used
 1)requests is needed to make the request to the api.
 
 2)matplotlib is used to plot the graphs.
