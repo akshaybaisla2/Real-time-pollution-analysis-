@@ -5,7 +5,9 @@ This project is based on analysing air quality information of INDIA(aqi,major po
 
 # Libraries used: 
 1)requests is needed to make the request to the api.
-2)matplotlib is used to plot the graphs. 
+
+2)matplotlib is used to plot the graphs.
+
 3)cartopy is used to plot the map.
 
 # DATA
