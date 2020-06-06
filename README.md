@@ -1,6 +1,7 @@
 # Real-time-pollution-analysis-
 
-# Project Highlight:The project is based on  analysing air quality information of a INDIA(aqi,major pollutants) using python.
+# Project Highlight:
+This project is based on analysing air quality information of INDIA(aqi,major pollutants) using python.
 
 # Libraries used: 
 1)requests is needed to make the request to the api.
